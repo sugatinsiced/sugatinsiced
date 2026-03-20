@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sugatinsiced
+- 👋 Hi, I’m Cedrik Ocampo or @sugatinsiced
 - 👀 I’m interested in learning more about coding
 - 🌱 I’m currently learning html/css/js & python
 - 💞️ I’m looking to collaborate on nothing on the moment
